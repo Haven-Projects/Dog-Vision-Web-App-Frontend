@@ -1,0 +1,22 @@
+{
+  "name": "DogVision AI - Breed Predictor",
+  "short_name": "DogVision AI",
+  "description": "AI-powered dog breed prediction from photos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#40E0D0",
+  "theme_color": "#40E0D0",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}

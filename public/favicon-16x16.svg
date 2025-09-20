@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Background -->
+  <circle cx="8" cy="8" r="7.5" fill="#40E0D0" stroke="#ddd" stroke-width="0.5"/>
+  
+  <!-- Dog head -->
+  <ellipse cx="8" cy="7" rx="3" ry="2.5" fill="#D2691E"/>
+  
+  <!-- Dog ears -->
+  <ellipse cx="6" cy="5.5" rx="1" ry="1.5" fill="#8B4513"/>
+  <ellipse cx="10" cy="5.5" rx="1" ry="1.5" fill="#8B4513"/>
+  
+  <!-- White muzzle -->
+  <ellipse cx="8" cy="8.5" rx="1.5" ry="2" fill="white"/>
+  
+  <!-- Dog nose -->
+  <ellipse cx="8" cy="7.5" rx="0.3" ry="0.2" fill="#654321"/>
+  
+  <!-- Dog eyes -->
+  <circle cx="7.2" cy="6.5" r="0.3" fill="#654321"/>
+  <circle cx="8.8" cy="6.5" r="0.3" fill="#654321"/>
+  
+  <!-- Search icon -->
+  <circle cx="11" cy="5" r="1" fill="rgba(173,216,230,0.8)" stroke="#4682B4" stroke-width="0.3"/>
+  <line x1="11.7" y1="5.7" x2="12.5" y2="6.5" stroke="#4682B4" stroke-width="0.3"/>
+  
+  <!-- Bottom section -->
+  <circle cx="8" cy="12" r="2.5" fill="rgba(25,25,112,0.8)"/>
+  <text x="8" y="13" text-anchor="middle" fill="white" font-size="1.5" font-family="Arial">🐕</text>
+</svg>

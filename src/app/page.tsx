@@ -224,10 +224,10 @@ export default function Home() {
               <h2 className="text-2xl font-bold text-amber-800 mb-4">Important Server Information</h2>
               <div className="space-y-4 text-amber-700">
                 <p className="text-lg">
-                  Our AI backend is hosted on Render's free tier, which means the server goes to sleep after 15 minutes of inactivity.
+                  Our AI backend is hosted on Render&apos;s free tier, which means the server goes to sleep after 15 minutes of inactivity.
                 </p>
                 <p className="text-base">
-                  <strong>First-time usage:</strong> Please click the "🏥 Health Check" button and wait 1-2 minutes for the server to wake up and load the AI model.
+                  <strong>First-time usage:</strong> Please click the &quot;🏥 Health Check&quot; button and wait 1-2 minutes for the server to wake up and load the AI model.
                 </p>
                 <p className="text-base">
                   Once the server is active, dog breed predictions will be fast and accurate!
@@ -235,7 +235,7 @@ export default function Home() {
               </div>
               <div className="mt-6 p-4 bg-amber-100 rounded-lg">
                 <p className="text-sm text-amber-600">
-                  💡 <strong>Pro tip:</strong> The health check will show "Backend is healthy! Model loaded: true" when ready.
+                  💡 <strong>Pro tip:</strong> The health check will show &quot;Backend is healthy! Model loaded: true&quot; when ready.
                 </p>
               </div>
             </div>

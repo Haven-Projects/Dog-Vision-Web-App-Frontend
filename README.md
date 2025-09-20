@@ -1,5 +1,6 @@
 # Dog Vision AI - Frontend
 Demo - https://dog-vision-web-app-frontend-k1yv.vercel.app/ 
+
 A modern, responsive web application for identifying dog breeds using AI-powered image recognition. Built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Features
